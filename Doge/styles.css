@@ -1,0 +1,13 @@
+        ul.disc-style {
+            list-style-type: disc;
+        }
+        dt.friend-name {
+            font-style:italic;
+        }
+        body {
+            background-color: darkcyan
+        }
+        div.profile-picture img {
+            display:inline-block;
+            max-width:200px;
+        }
